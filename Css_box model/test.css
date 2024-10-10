@@ -1,0 +1,59 @@
+
+
+    .box1{
+        background-color: red;
+        height:100px;
+        width: 100px;
+    }
+    .box2{
+        background-color: red;
+        height:100px;
+        width: 100px;
+        margin-top: 30px;
+    }
+
+
+
+
+
+    .one{
+        background-color: black;
+        color: white;
+        height:300px;
+        width:200px;
+        padding: 30px;
+    
+    }
+
+
+
+
+
+   .box{
+        background-color: black;
+        height: 100px;
+        width: 100px;
+        margin: 20px;
+        border-color: red;
+        border-width: 15px;
+        border-style: solid;
+    }
+
+
+
+
+
+    h1{
+        background-color: black;
+        color: yellow;
+        padding: 30px;
+        text-align: center;
+    }
+
+    p{
+        background-color: gray;
+        padding: 30px;
+        border-color: black;
+        border-width: 10px;
+        border-style: solid; 
+    }

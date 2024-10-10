@@ -1,0 +1,23 @@
+<style>
+    h1{
+        background-color: red;
+        display:inline;  
+    }
+
+    p{
+        background-color: blue;
+        display:inline-block;
+        width: 400px;
+        height: 200px;
+    }
+
+    h2{
+        background-color: green;
+        display:block;
+    }
+
+    div{
+        background-color: pink;
+        display:inline;
+    }
+</style>
